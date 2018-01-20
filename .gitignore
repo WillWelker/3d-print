@@ -21,5 +21,7 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+#Blender backup file
+*.blend1
 
 # End of https://www.gitignore.io/api/windows
