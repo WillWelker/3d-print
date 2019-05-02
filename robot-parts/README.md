@@ -1,4 +1,4 @@
 # Blender gear settings
 
 Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Blender gear settings")
+![alt text](https://github.com/WillWelker/3d-print/blob/master/robot-parts/images/gear-settings-blend-1.jpg "Blender gear settings")
